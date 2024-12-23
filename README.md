@@ -2,7 +2,7 @@
 
 
 ## 🔗 Links
-[- [Contador Precio producto x cantidad-]()
+[- [Contador Precio producto x cantidad-](https://gianluca-cl.github.io/desafio-1-Javascript-Gianluca/)
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations or inquiries:
